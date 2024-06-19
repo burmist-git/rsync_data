@@ -12,10 +12,10 @@ function printHelp {
     echo " [0] -h    : print help"
 }
 
-fullpathhome="/home/burmist/home2/work/CTA/scratch/mono-lst-sipm-pmma-3ns-v1_triggerless"
-fullpath="/srv/beegfs/scratch/shares/heller/Leonid/mono-lst-sipm-pmma-3ns-v1_triggerless"
-usern="burmistr"
-server="login1.yggdrasil.hpc.unige.ch"
+fullpathhome="~"
+fullpath="~"
+usern="user"
+server="login"
 _nsb_1x="_nsb_1x"
 
 function rsync_data_sh {
